@@ -65,7 +65,7 @@ p{
 /*HERO SECTION*/
 .bg-box{
   height: 100vh;
-  background-image: url('/content/imgaes/hero/bg_main_page.jpg');
+  background-image: url('../content/imgaes/hero/bg_main_page.jpg');
 	background-position: center;
 	background-size: cover;
 }
